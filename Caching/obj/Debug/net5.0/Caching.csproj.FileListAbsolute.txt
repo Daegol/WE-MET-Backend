@@ -1,0 +1,15 @@
+D:\Projects\WE-MET-Backend\Caching\bin\Debug\net5.0\Caching.deps.json
+D:\Projects\WE-MET-Backend\Caching\bin\Debug\net5.0\Caching.dll
+D:\Projects\WE-MET-Backend\Caching\bin\Debug\net5.0\Caching.pdb
+D:\Projects\WE-MET-Backend\Caching\bin\Debug\net5.0\Models.dll
+D:\Projects\WE-MET-Backend\Caching\bin\Debug\net5.0\Models.pdb
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\Caching.csproj.AssemblyReference.cache
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\Caching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\Caching.AssemblyInfoInputs.cache
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\Caching.AssemblyInfo.cs
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\Caching.csproj.CoreCompileInputs.cache
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\Caching.csproj.CopyComplete
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\Caching.dll
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\ref\Caching.dll
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\Caching.pdb
+D:\Projects\WE-MET-Backend\Caching\obj\Debug\net5.0\refint\Caching.dll

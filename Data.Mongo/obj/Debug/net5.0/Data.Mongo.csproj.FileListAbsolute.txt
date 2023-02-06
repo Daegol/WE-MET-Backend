@@ -1,0 +1,12 @@
+D:\Projects\WE-MET-Backend\Data.Mongo\bin\Debug\net5.0\Data.Mongo.deps.json
+D:\Projects\WE-MET-Backend\Data.Mongo\bin\Debug\net5.0\Data.Mongo.dll
+D:\Projects\WE-MET-Backend\Data.Mongo\bin\Debug\net5.0\Data.Mongo.pdb
+D:\Projects\WE-MET-Backend\Data.Mongo\obj\Debug\net5.0\Data.Mongo.csproj.AssemblyReference.cache
+D:\Projects\WE-MET-Backend\Data.Mongo\obj\Debug\net5.0\Data.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WE-MET-Backend\Data.Mongo\obj\Debug\net5.0\Data.Mongo.AssemblyInfoInputs.cache
+D:\Projects\WE-MET-Backend\Data.Mongo\obj\Debug\net5.0\Data.Mongo.AssemblyInfo.cs
+D:\Projects\WE-MET-Backend\Data.Mongo\obj\Debug\net5.0\Data.Mongo.csproj.CoreCompileInputs.cache
+D:\Projects\WE-MET-Backend\Data.Mongo\obj\Debug\net5.0\Data.Mongo.dll
+D:\Projects\WE-MET-Backend\Data.Mongo\obj\Debug\net5.0\ref\Data.Mongo.dll
+D:\Projects\WE-MET-Backend\Data.Mongo\obj\Debug\net5.0\Data.Mongo.pdb
+D:\Projects\WE-MET-Backend\Data.Mongo\obj\Debug\net5.0\refint\Data.Mongo.dll

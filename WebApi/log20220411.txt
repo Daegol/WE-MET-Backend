@@ -1,0 +1,222 @@
+2022-04-11 14:38:18.305 +02:00 [INF] Application Start
+2022-04-11 15:00:14.396 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:00:14.634 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:00:14.654 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:00:14.685 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:00:14.964 +02:00 [INF] Application Start
+2022-04-11 15:24:03.848 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:24:03.915 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:24:03.919 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:24:03.924 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:24:04.023 +02:00 [INF] Application Start
+2022-04-11 15:29:39.351 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:29:39.409 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:29:39.431 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:29:39.454 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:29:39.560 +02:00 [INF] Application Start
+2022-04-11 15:37:09.673 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:37:09.748 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:37:09.757 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:37:09.764 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:37:09.891 +02:00 [INF] Application Start
+2022-04-11 15:38:55.098 +02:00 [ERR] Failed executing DbCommand (11ms) [Parameters=[@p5='?' (DbType = Int32), @p0='?' (DbType = Boolean), @p1='?' (Size = 255), @p2='?' (DbType = DateTime), @p3='?' (DbType = DateTime), @p4='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Purchases] SET [Approved] = @p0, [ClientName] = @p1, [CreateUTC] = @p2, [Date] = @p3, [Name] = @p4
+WHERE [Id] = @p5;
+SELECT @@ROWCOUNT;
+2022-04-11 15:38:55.103 +02:00 [ERR] Failed executing DbCommand (11ms) [Parameters=[@p5='?' (DbType = Int32), @p0='?' (DbType = Boolean), @p1='?' (Size = 255), @p2='?' (DbType = DateTime), @p3='?' (DbType = DateTime), @p4='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Purchases] SET [Approved] = @p0, [ClientName] = @p1, [CreateUTC] = @p2, [Date] = @p3, [Name] = @p4
+WHERE [Id] = @p5;
+SELECT @@ROWCOUNT;
+2022-04-11 15:41:41.654 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:41:41.734 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:41:41.740 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:41:41.746 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:41:41.974 +02:00 [INF] Application Start
+2022-04-11 15:44:40.691 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:44:40.754 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:44:40.758 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:44:40.763 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:44:40.856 +02:00 [INF] Application Start
+2022-04-11 15:45:31.364 +02:00 [ERR] Failed executing DbCommand (5ms) [Parameters=[@p5='?' (DbType = Int32), @p0='?' (DbType = Boolean), @p1='?' (Size = 255), @p2='?' (DbType = DateTime), @p3='?' (DbType = DateTime), @p4='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Purchases] SET [Approved] = @p0, [ClientName] = @p1, [CreateUTC] = @p2, [Date] = @p3, [Name] = @p4
+WHERE [Id] = @p5;
+SELECT @@ROWCOUNT;
+2022-04-11 15:45:31.369 +02:00 [ERR] Failed executing DbCommand (5ms) [Parameters=[@p5='?' (DbType = Int32), @p0='?' (DbType = Boolean), @p1='?' (Size = 255), @p2='?' (DbType = DateTime), @p3='?' (DbType = DateTime), @p4='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Purchases] SET [Approved] = @p0, [ClientName] = @p1, [CreateUTC] = @p2, [Date] = @p3, [Name] = @p4
+WHERE [Id] = @p5;
+SELECT @@ROWCOUNT;
+2022-04-11 15:48:33.003 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:48:33.064 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:48:33.069 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:48:33.081 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:48:33.198 +02:00 [INF] Application Start
+2022-04-11 15:50:04.709 +02:00 [ERR] Failed executing DbCommand (6ms) [Parameters=[@p4='?' (DbType = Int32), @p0='?' (DbType = Double), @p1='?' (DbType = DateTime), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [PurchaseItems] SET [Amount] = @p0, [CreateUTC] = @p1, [PurchaseId] = @p2, [SubCategoryId] = @p3
+WHERE [Id] = @p4;
+SELECT @@ROWCOUNT;
+2022-04-11 15:50:04.713 +02:00 [ERR] Failed executing DbCommand (6ms) [Parameters=[@p4='?' (DbType = Int32), @p0='?' (DbType = Double), @p1='?' (DbType = DateTime), @p2='?' (DbType = Int32), @p3='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [PurchaseItems] SET [Amount] = @p0, [CreateUTC] = @p1, [PurchaseId] = @p2, [SubCategoryId] = @p3
+WHERE [Id] = @p4;
+SELECT @@ROWCOUNT;
+2022-04-11 15:56:43.384 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:56:43.455 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:56:43.461 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:56:43.467 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 15:56:43.593 +02:00 [INF] Application Start
+2022-04-11 15:57:26.705 +02:00 [ERR] An error occurred using a transaction.
+2022-04-11 15:57:26.707 +02:00 [ERR] An error occurred using a transaction.
+2022-04-11 15:58:25.427 +02:00 [ERR] An error occurred using a transaction.
+2022-04-11 15:58:25.427 +02:00 [ERR] An error occurred using a transaction.
+2022-04-11 16:13:36.356 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 16:13:36.417 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 16:13:36.426 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 16:13:36.433 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 16:13:36.587 +02:00 [INF] Application Start
+2022-04-11 16:15:28.623 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 16:15:28.688 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 16:15:28.700 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 16:15:28.713 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 16:15:28.842 +02:00 [INF] Application Start
+2022-04-11 19:57:16.458 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 19:57:16.524 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 19:57:16.537 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 19:57:16.550 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-11 19:57:16.654 +02:00 [INF] Application Start
+2022-04-11 20:02:49.469 +02:00 [ERR] Failed executing DbCommand (17ms) [Parameters=[@p4='?' (DbType = Double), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [PurchaseItems] ([Amount], [PurchaseId], [SubCategoryId])
+VALUES (@p4, @p5, @p6);
+SELECT [Id], [CreateUTC]
+FROM [PurchaseItems]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-04-11 20:02:49.473 +02:00 [ERR] Failed executing DbCommand (17ms) [Parameters=[@p4='?' (DbType = Double), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [PurchaseItems] ([Amount], [PurchaseId], [SubCategoryId])
+VALUES (@p4, @p5, @p6);
+SELECT [Id], [CreateUTC]
+FROM [PurchaseItems]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-04-11 20:02:49.503 +02:00 [ERR] An exception occurred in the database while saving changes for context type 'Data.Contexts.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PurchaseItems_SubCategories_SubCategoryId". The conflict occurred in database "WemMetApplicationDb", table "dbo.SubCategories", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:94c595c0-86cc-476b-a74d-f5658477e4e4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PurchaseItems_SubCategories_SubCategoryId". The conflict occurred in database "WemMetApplicationDb", table "dbo.SubCategories", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:94c595c0-86cc-476b-a74d-f5658477e4e4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2022-04-11 20:02:49.767 +02:00 [ERR] An exception occurred in the database while saving changes for context type 'Data.Contexts.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PurchaseItems_SubCategories_SubCategoryId". The conflict occurred in database "WemMetApplicationDb", table "dbo.SubCategories", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:94c595c0-86cc-476b-a74d-f5658477e4e4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PurchaseItems_SubCategories_SubCategoryId". The conflict occurred in database "WemMetApplicationDb", table "dbo.SubCategories", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:94c595c0-86cc-476b-a74d-f5658477e4e4
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)

@@ -1,0 +1,5 @@
+2022-04-14 15:41:39.793 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-14 15:41:39.860 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-14 15:41:39.864 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-14 15:41:39.867 +02:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-04-14 15:41:39.960 +02:00 [INF] Application Start

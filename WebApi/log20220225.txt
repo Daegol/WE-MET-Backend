@@ -1,0 +1,21 @@
+2022-02-25 20:09:57.524 +01:00 [INF] Application Start
+2022-02-25 20:12:18.323 +01:00 [ERR] 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials a5-20020ac25e65000000b00443c375b7a7sm277482lfr.20 - gsmtp
+2022-02-25 20:12:18.326 +01:00 [ERR] 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials a5-20020ac25e65000000b00443c375b7a7sm277482lfr.20 - gsmtp
+2022-02-25 20:16:41.058 +01:00 [INF] Application Start
+2022-02-25 20:20:40.185 +01:00 [ERR] 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials f1-20020a2e1f01000000b0024602522b5dsm335404ljf.120 - gsmtp
+2022-02-25 20:20:40.188 +01:00 [ERR] 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials f1-20020a2e1f01000000b0024602522b5dsm335404ljf.120 - gsmtp
+2022-02-25 20:26:49.987 +01:00 [INF] Application Start
+2022-02-25 20:30:14.282 +01:00 [INF] Application Start
+2022-02-25 20:32:54.156 +01:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-02-25 20:32:54.202 +01:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-02-25 20:32:54.213 +01:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-02-25 20:32:54.390 +01:00 [INF] Application Start
+2022-02-25 20:33:27.597 +01:00 [INF] Application Start
+2022-02-25 20:57:19.510 +01:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-02-25 20:57:19.571 +01:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-02-25 20:57:19.590 +01:00 [WRN] Role (null) validation failed: DuplicateRoleName.
+2022-02-25 20:57:19.784 +01:00 [INF] Application Start
